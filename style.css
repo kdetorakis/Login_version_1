@@ -227,6 +227,54 @@ body{
     font-size: 30px;
 }
 
+
+/* 3rd page */
+.background3{
+    width: 100%;
+    height: 100vh;
+    background: url('background3.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    filter: blur(20px);
+}
+
+/* 3rd page */
+.container3{
+    position: absolute;
+    top: 50%;   
+    left: 50%;  
+    transform: translate(-50%, -50%);
+    width: 75%;
+    height: 720px;
+    background: url('background3.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;       /*gwnies*/
+    margin-top: 20px;          /*gwnies*/
+}
+
+/* 3rd page */
+.container3 .content3{
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 58%;
+    height: 100%;
+    background: transparent;
+    padding: 80px;
+    color: #e4e4e4;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+/* 3rd page */
+.content3 .logo3{
+    font-size: 30px;
+}
+
+
+
 .text-sci h2{
     font-size: 40px;
     line-height: 1;
