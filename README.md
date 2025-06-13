@@ -29,7 +29,7 @@ It includes clean form layouts and basic animations, with no JavaScript or frame
 
 You can open `index.html` directly in a browser to see the page in action.
 
-> Optional: Add a screenshot or animated preview here
+![Screenshot](sample1.png)
 
 ---
 
