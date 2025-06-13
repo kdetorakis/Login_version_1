@@ -1,3 +1,46 @@
-# These are some testing sites for my use
+# Login/Signup Page
 
-## This is a pure use of html web app
+This is a simple and responsive login/signup page built with pure **HTML** and **CSS**.  
+It includes clean form layouts and basic animations, with no JavaScript or frameworks involved.
+
+---
+
+## Table of Contents
+
+- [Features](#features)
+- [Preview](#preview)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Customization](#customization)
+- [License](#license)
+
+---
+
+## Features
+
+- Pure HTML and CSS implementation
+- Animated transitions between login and signup
+- Responsive design for mobile and desktop
+- Clean and modern user interface
+
+---
+
+## Preview
+
+You can open `index.html` directly in a browser to see the page in action.
+
+> Optional: Add a screenshot or animated preview here
+
+---
+
+## Project Structure
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
